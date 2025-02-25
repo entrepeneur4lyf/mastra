@@ -1,5 +1,11 @@
 # docs
 
+## 0.1.2-alpha.2
+
+### Patch Changes
+
+- 99dcdb5: Inject primitives into condition function, and renames getStepPayload to getStepResult.
+
 ## 0.1.2-alpha.1
 
 ### Patch Changes
